@@ -1,4 +1,5 @@
-<img src="banner.png" alt="Abdulmalik Hardan – Data Analyst" width="100%">
+<img width="1584" height="396" alt="banner png" src="https://github.com/user-attachments/assets/0eac1ea7-2013-428c-b5ab-8c5be236ce05" />
+
 
 # Hi, I'm Abdulmalik Hardan 👋
 
