@@ -1,3 +1,5 @@
+<img src="banner.png" alt="Abdulmalik Hardan – Data Analyst" width="100%">
+
 # Hi, I'm Abdulmalik Hardan 👋
 
 **Data Analyst** focused on supply chain and inventory analytics. I use SQL and Power BI to find where companies lose money to expiry and waste.
